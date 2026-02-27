@@ -10,8 +10,8 @@ import time
 import sys
 
 URL = "https://suape-test.softexpert.com/softexpert/login?page=12,129"
-USUARIO = "gabrielfranca"
-SENHA = "290504gE110621g@"
+USUARIO = ""
+SENHA = ""
 
 options = Options()
 options.add_argument("--incognito")
